@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Xcode – personlige innstillinger og byggefiler
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# Hemmeligheter (skal aldri på GitHub)
+*.p12
+*.mobileprovision
+Secrets.xcconfig
+.env

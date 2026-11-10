@@ -1,0 +1,15 @@
+{
+  "originHash" : "c59f7f0ae83b7abfde2925d94243b2acb237b2ad7ba685e9c37d9956dff3a318",
+  "pins" : [
+    {
+      "identity" : "vlckit-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/koombea/vlckit-spm",
+      "state" : {
+        "revision" : "a581a7aa7b336208ebf54171a496a4f64cdbebfd",
+        "version" : "3.6.0"
+      }
+    }
+  ],
+  "version" : 3
+}
